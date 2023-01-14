@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Rock Paper Scissor Game in Python</title>
   </head>
   <body>
     <h1>Rock Paper Scissor Game in Python</h1>
